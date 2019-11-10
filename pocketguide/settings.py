@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bookings.apps.BookingsConfig',
+    'ptgride.apps.PtgrideConfig'
 ]
 
 MIDDLEWARE = [
